@@ -1,0 +1,50 @@
+#Change git username
+$ git config --global user.name "MY NAME"
+
+#Change git user email address
+$ git config --global user.email "MY EMAIL"
+
+#Change git config settings
+$ git config --edit --global
+
+#Set VS Code as default editor for git
+1. set environment  variable "C:\Users\ty\AppData\Local\Programs\Microsoft VS Code\bin"
+2. $ git config --global core.editor "code --wait --new-window"
+
+Commands
+$ git - all commands start with git
+$ git config - configure the tooling
+$ git init - initialize a git local repo
+$ git clone - download a project from remote repo
+$ git add - prepare a file for staging 
+$ git commit - commit a file to the repo (Commits are stored locally until pushed)
+$ git add . - prepare all files for staging
+$ git log - tracks the author and date of commit
+$ git push origin main - use this command to push files to GitHub after commit
+$ git fetch - will only look at changes made to the remote repository
+$ git pull - will pull all changes to the local repository 
+
+
+Practice
+$ mdirk "C:\Users\tyrel\Desktop\Projects\Git Commands\Practice"
+$ cd "C:\Users\tyrel\Desktop\Projects\Git Commands\Practice"
+$ git init - will automatically create a main branch (default)
+$ ls -la - list files and permissions CHMOD
+$ git status - no commits yet
+$ code readme.md - (md) markdown format
+$ git status - untracked files readme.md
+$ git add readme.md
+$ git status - new file readme.md
+$ git commit -m "inital commit"
+$ git status - no commits yet
+
+SSH Key Generation
+$ ls -al ~/.ssh - location ssh key by default
+$ ssh-keygen -t rsa -b 4096 -C "gill@snowball.be" - used to generate public/private rsa key pair
+$ eval $(ssh-agent -s) - check if ssh agent is running
+$ ssh-add ~/.ssh/id_rsa - add ssh key to default location
+Open: C:\Users\tyrel\.ssh
+Open: id_rsa.pub with Notepad and copy ssh key
+Open: Github -> Settings -> SSH and GPG keys
+Create: New SSH Key (add name and ssh key)
+$ ssh -T git@github. - validation of successful authentication to github

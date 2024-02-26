@@ -1,0 +1,68 @@
+What is Git?
+•	Popular source control system
+•	Distributed system
+•	Free and open-source
+
+What is GitHub?
+•	Hosting service based on Git
+•	More than just source control for your code
+•	Free and paid options
+
+3 States of Git - a promotion based system
+•	Commited - data is stored in the local database
+•	Modified - file has been changed, but not commited
+•	Staged - modified files is in line to be part of the next commit snapshot
+
+3 Areas of Git - areas where files can live
+•	Working Directory - where content will be create, modified and deleted
+•	Staging area - any changes in the local directory will be staged before commited
+•	.git repo - managed by git and where all changes will be stored after commit
+•	Remote repo Github - where files can be stored and accessed remotely
+
+Working with Git Options
+•	Command Line (CLI)
+•	Graphical User Interface (GUI) - GitHub Desktop, SourceTree, Tower
+
+GitHub Main Features
+•	Code
+•	Pull Requests
+•	Issues
+•	CI/CD - Github Actions
+
+GitHub Repositories
+•	Public - anyone on the internet can see this repository
+•	Private - you choose who can see and commit to this repository
+•	Add README file - include a long decription for your project
+•	Add .gitignore - choose which files not to track from a list of templates
+•	Add License - control what others can and can't do with your code
+•	Public - anyone on the internet can see this Repository
+
+GitHub Repo Files
+•	LICENSE.md - states the license associated with the repo
+•	CONTRIBUTING and CONTRIBUTORS - file list all contributors for project
+•	CHANGELOG.md - list all major change made to the project
+•	SUPPORT.md - inform people of where and how to get help for the project
+•	CODE_OF_CONDUCT.md - states how people should behave while interacting with project
+•	README.md - states a long description of what is the purpose of the project
+•	CODEOWNERS.md - states which users are responsible for the code
+
+GitHub MARKDOWN Syntax <HTML>
+•	# H1
+•	## H2
+•	### H3
+•	- List item
+
+GitHub Repositories Features
+•	Topics - similar to tags
+•	Projects - use to track progress
+•	Issues - use to track feature request, bugs, etc.
+•	Pull Request - used to collaborate on code and review and make changes
+•	Insights - gives info about contributors, commits, traffic and code frequency
+•	Settings - use to make repo changes and grant permissions
+
+
+
+
+
+
+
