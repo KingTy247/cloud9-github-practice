@@ -24,6 +24,10 @@ $ git push origin main - use this command to push files to GitHub after commit
 $ git fetch - will only look at changes made to the remote repository
 $ git pull - will pull all changes to the local repository 
 
+Commands for Branching
+$ git branch [branch-name] 
+$ git checkout -b [branch-name] - create a new branch and switch
+$ git push -u [origin] [branch]
 
 Practice
 $ mdirk "C:\Users\tyrel\Desktop\Projects\Git Commands\Practice"
