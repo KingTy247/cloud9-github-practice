@@ -1,6 +1,6 @@
 #Change git username
 $ git config --global user.name "MY NAME"
-
+#TEST
 #Change git user email address
 $ git config --global user.email "MY EMAIL"
 
