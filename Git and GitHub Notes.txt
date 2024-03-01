@@ -60,6 +60,14 @@ GitHub Repositories Features
 •	Insights - gives info about contributors, commits, traffic and code frequency
 •	Settings - use to make repo changes and grant permissions
 
+GitHub Merge Conflicts
+•	Editing on the same line
+•	Editing on a already deleted file
+•	Merge conflicts need to be resolved before a merge can happen
+•	LocalDiff Tools: KDiff3, vimdiff3, P4Merge, Beyond Compare
+•	Can resolve using GitHub or Git
+
+
 
 
 
