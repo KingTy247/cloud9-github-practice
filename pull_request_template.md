@@ -6,7 +6,7 @@ If needed, ensure to list all dependencies that are required for this change/
 
 Fixes # (issue)
 
-## Type of Chagnge
+## Type of Change
 
 Please delete options that are not relevant.
 - [] Bug fix (no-breaking change which fixes an issue)
