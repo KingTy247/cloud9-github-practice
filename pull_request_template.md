@@ -2,7 +2,7 @@
 
 ## Description
 Include a description of what has been changes and any relevant context.
-If needed, ensure to list all dependencies that are required for this change/
+If needed, ensure to list all dependencies that are required for this change.
 
 Fixes # (issue)
 
