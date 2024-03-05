@@ -67,6 +67,10 @@ GitHub Merge Conflicts
 •	LocalDiff Tools: KDiff3, vimdiff3, P4Merge, Beyond Compare
 •	Can resolve using GitHub or Git
 
+Forking a Repository
+•	Copy of a repo
+•	Doesn't impact the original repo
+•	Changes can be merged again via a pull request
 
 
 
