@@ -72,6 +72,9 @@ Forking a Repository
 •	Doesn't impact the original repo
 •	Changes can be merged again via a pull request
 
+Creation of Issues Templates
+•	Navigate to Settings -> Features -> Issues -> Create Template
+•	You can customize or add pre-defined templates for user to select within creating an issue
 
 
 
