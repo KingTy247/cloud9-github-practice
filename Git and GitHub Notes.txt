@@ -76,6 +76,12 @@ Creation of Issues Templates
 •	Navigate to Settings -> Features -> Issues -> Create Template
 •	You can customize or add pre-defined templates for user to select within creating an issue
 
+GitHub Actions
+•	Automate different tasks
+•	Event-driven, will trigger tasks
+•	Live in the repository
+•	Runner (Server) -> Workflow - > Job -> Step -> Action
+•	Can create Actions in YAML
 
 
 
