@@ -82,6 +82,12 @@ GitHub Actions
 •	Live in the repository
 •	Runner (Server) -> Workflow - > Job -> Step -> Action
 •	Can create Actions in YAML
+•	Types of Events: Event within GitHub, Combination, Scheduled, Webhook Events
+•	Types of Workflows: CI/CD, Automation
+•	Options: Create Custom Actions, Community Marketplace
+
+
+
 
 
 
