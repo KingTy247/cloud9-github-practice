@@ -86,6 +86,13 @@ GitHub Actions
 •	Types of Workflows: CI/CD, Automation
 •	Options: Create Custom Actions, Community Marketplace
 
+GitHub Organizations
+•	Shared account for collaboration
+•	Owns repositories
+•	Fine-grained access control
+•	Available for free or paid accounts
+•	Roles: Member, Owner, Outside Collaborator & Other
+
 
 
 
