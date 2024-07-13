@@ -27,7 +27,9 @@ $ git pull - will pull all changes to the local repository
 Commands for Branching
 $ git branch [branch-name] 
 $ git checkout -b [branch-name] - create a new branch and switch
+$ git checkout [branch-name] - switch to another branch
 $ git push -u [origin] [branch]
+$ git branch --show-current - what branch are you currently on
 
 Practice
 $ mdirk "C:\Users\tyrel\Desktop\Projects\Git Commands\Practice"
