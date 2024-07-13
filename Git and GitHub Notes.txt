@@ -60,6 +60,40 @@ GitHub Repositories Features
 •	Insights - gives info about contributors, commits, traffic and code frequency
 •	Settings - use to make repo changes and grant permissions
 
+GitHub Merge Conflicts
+•	Editing on the same line
+•	Editing on a already deleted file
+•	Merge conflicts need to be resolved before a merge can happen
+•	LocalDiff Tools: KDiff3, vimdiff3, P4Merge, Beyond Compare
+•	Can resolve using GitHub or Git
+
+Forking a Repository
+•	Copy of a repo
+•	Doesn't impact the original repo
+•	Changes can be merged again via a pull request
+
+Creation of Issues Templates
+•	Navigate to Settings -> Features -> Issues -> Create Template
+•	You can customize or add pre-defined templates for user to select within creating an issue
+
+GitHub Actions
+•	Automate different tasks
+•	Event-driven, will trigger tasks
+•	Live in the repository
+•	Runner (Server) -> Workflow - > Job -> Step -> Action
+•	Can create Actions in YAML
+•	Types of Events: Event within GitHub, Combination, Scheduled, Webhook Events
+•	Types of Workflows: CI/CD, Automation
+•	Options: Create Custom Actions, Community Marketplace
+
+GitHub Organizations
+•	Shared account for collaboration
+•	Owns repositories
+•	Fine-grained access control
+•	Available for free or paid accounts
+•	Roles: Member, Owner, Outside Collaborator & Other
+
+
 
 
 

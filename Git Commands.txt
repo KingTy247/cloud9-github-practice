@@ -23,11 +23,14 @@ $ git log - tracks the author and date of commit
 $ git push origin main - use this command to push files to GitHub after commit
 $ git fetch - will only look at changes made to the remote repository
 $ git pull - will pull all changes to the local repository 
+$ git push --set-upstream origin develop - will push code to develop branch and set origin
 
 Commands for Branching
 $ git branch [branch-name] 
 $ git checkout -b [branch-name] - create a new branch and switch
+$ git checkout [branch-name] - switch to another branch
 $ git push -u [origin] [branch]
+$ git branch --show-current - what branch are you currently on
 
 Practice
 $ mdirk "C:\Users\tyrel\Desktop\Projects\Git Commands\Practice"
